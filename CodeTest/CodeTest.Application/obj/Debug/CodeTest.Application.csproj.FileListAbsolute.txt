@@ -1,8 +1,0 @@
-C:\Projects\CodeTest\CodeTest.Application\bin\Debug\CodeTest.Application.dll
-C:\Projects\CodeTest\CodeTest.Application\bin\Debug\CodeTest.Application.pdb
-C:\Projects\CodeTest\CodeTest.Application\obj\Debug\CodeTest.Application.csproj.CoreCompileInputs.cache
-C:\Projects\CodeTest\CodeTest.Application\obj\Debug\CodeTest.Application.dll
-C:\Projects\CodeTest\CodeTest.Application\obj\Debug\CodeTest.Application.pdb
-C:\Projects\CodeTest\CodeTest.Application\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\CodeTest\CodeTest.Application\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\CodeTest\CodeTest.Application\obj\Debug\CodeTest.Application.csproj.CopyComplete
